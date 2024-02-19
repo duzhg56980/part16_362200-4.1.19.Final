@@ -1,0 +1,6 @@
+import io.netty.resolver.dns.DnsNameResolver;
+public class FunctionUse4663 {
+public void funcUse() {
+DnsNameResolver dnsnameresolver = new DnsNameResolver();
+}
+}
